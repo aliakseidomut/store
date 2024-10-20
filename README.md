@@ -2,7 +2,7 @@
 ![Store](https://github.com/user-attachments/assets/d6693a90-83af-4e9b-b0c5-7bb5960befdd)
 
 ## Deploy
-[codesandbox]([https://codesandbox.io/p/sandbox/amazing-jennings-rxw84f])
+[codesandbox](https://codesandbox.io/p/sandbox/amazing-jennings-rxw84f)
 
 ## Technologies
 - HTML
